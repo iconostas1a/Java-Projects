@@ -1,0 +1,14 @@
+package lab3.models;
+
+public enum Color {
+    BLACK,
+    WHITE,
+    GINGER,
+    GRAY,
+    CREAM,
+    CHOCOLATE,
+    CINNAMON,
+    FAWN,
+    BLUE,
+}
+
