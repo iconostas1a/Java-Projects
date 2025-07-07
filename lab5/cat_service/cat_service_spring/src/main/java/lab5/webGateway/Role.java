@@ -1,0 +1,6 @@
+package lab5.webGateway;
+
+public enum Role {
+    ROLE_USER,
+    ROLE_ADMIN
+}
